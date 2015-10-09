@@ -13,8 +13,7 @@
 	"minimum-stability": "dev",
 	"require": {
 		"ext-soap": "*",
-		"yiisoft/yii2": "*",
-		"codeception/codeception": "*"
+		"yiisoft/yii2": "*"
 	},
 	"autoload": {
 		"psr-4": {"subdee\\soapserver\\": ""}
